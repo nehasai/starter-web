@@ -4,6 +4,8 @@ Hi, this is sample for rebase
 # TEAM
 Hi, I hope this should work for conflicts feature
 
+Hi I am still working on it
+
     <name> -- <role> -- <twitter>
 
 # THANKS
