@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+Hi, this is sample for rebase
 # TEAM
 
     <name> -- <role> -- <twitter>
