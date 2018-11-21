@@ -14,3 +14,6 @@ Learned GIT Comparisons
 lEARNING
 
 Adding git rebase in Git advance. I got to know about rebase
+
+Using stash
+
