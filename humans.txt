@@ -7,6 +7,7 @@ Performing the changes in local
 Hi, I hope this should work for conflicts feature
 
 Hi I am still working on it
+Adding some thing for git stash
  I am confused
     <name> -- <role> -- <twitter>
 
