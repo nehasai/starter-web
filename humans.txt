@@ -4,7 +4,10 @@ Hi, this is sample for rebase
 
 Performing the changes in local
 # TEAM
+Hi, I hope this should work for conflicts feature
 
+Hi I am still working on it
+ I am confused
     <name> -- <role> -- <twitter>
 
 # THANKS
