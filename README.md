@@ -2,6 +2,7 @@ starter web-project
 
 
 ##Introduction
+Lots of new things be learning 
 
 ##GIT Comparisons
 
