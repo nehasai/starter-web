@@ -13,3 +13,4 @@ Hi, this is sample for rebase
 
     HTML5, CSS3, Angular
     jQuery, Modernizr ajax
+    AWS, DOCKER, SLACK
